@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUgions6rhvqwcE6W0m9TWyfaeJQ0nTAJRrCrxsqL8EMBB2XRRwfWb6nPSHY+PWjmiFapdI2o88RbsRha+syLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake\\OneDrive\\JAKK3 Lab\\03_DEV\\01_Project\\06_TOY\\01_TaikoCrawler\\TaikoDifficulty\\TaikoDifficulty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Jake\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}
